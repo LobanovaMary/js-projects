@@ -5,7 +5,7 @@ const min = document.querySelector('.minutes__input');
 const sec = document.querySelector('.seconds__input');
 const circleWrapper = document.querySelector('.ring');
 
-const sound = new Audio('../assets/bip.mp3');
+const sound = new Audio('../../assets/bip.mp3');
 
 const setting = document.querySelector('.settings');
 
